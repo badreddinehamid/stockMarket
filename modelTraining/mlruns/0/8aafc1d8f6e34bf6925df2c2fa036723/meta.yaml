@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/admin/Desktop/machine%20learning/PROJECTS/STOCK-PREDICTION/mlruns/0/8aafc1d8f6e34bf6925df2c2fa036723/artifacts
+end_time: 1737044181422
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8aafc1d8f6e34bf6925df2c2fa036723
+run_name: enthused-mole-267
+run_uuid: 8aafc1d8f6e34bf6925df2c2fa036723
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737044164936
+status: 3
+tags: []
+user_id: admin

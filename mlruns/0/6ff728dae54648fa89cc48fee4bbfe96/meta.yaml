@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6ff728dae54648fa89cc48fee4bbfe96/artifacts
+end_time: 1737044478374
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6ff728dae54648fa89cc48fee4bbfe96
+run_name: dazzling-wren-912
+run_uuid: 6ff728dae54648fa89cc48fee4bbfe96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737044440775
+status: 4
+tags: []
+user_id: admin

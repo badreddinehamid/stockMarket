@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1737044181401
+current_stage: None
+description: null
+last_updated_timestamp: 1737044181401
+name: StockPredictionModel
+run_id: 8aafc1d8f6e34bf6925df2c2fa036723
+run_link: null
+source: file:///C:/Users/admin/Desktop/machine%20learning/PROJECTS/STOCK-PREDICTION/mlruns/0/8aafc1d8f6e34bf6925df2c2fa036723/artifacts/lstm_stock_model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/admin/Desktop/machine%20learning/PROJECTS/STOCK-PREDICTION/mlruns/0/8aafc1d8f6e34bf6925df2c2fa036723/artifacts/lstm_stock_model
+user_id: null
+version: 1

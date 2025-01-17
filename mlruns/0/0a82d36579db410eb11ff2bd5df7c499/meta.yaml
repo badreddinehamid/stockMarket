@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0a82d36579db410eb11ff2bd5df7c499/artifacts
+end_time: 1737044651917
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0a82d36579db410eb11ff2bd5df7c499
+run_name: stylish-skink-371
+run_uuid: 0a82d36579db410eb11ff2bd5df7c499
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737044616462
+status: 4
+tags: []
+user_id: admin
