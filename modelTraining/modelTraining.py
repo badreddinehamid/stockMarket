@@ -13,7 +13,7 @@ from mlflow.models.signature import infer_signature
 # Set the tracking URI to the MLflow server
 mlflow.set_tracking_uri("http://localhost:5000")
 
-stock = "POWERGRID.NS"
+stock = "AAPL"
 
 def load_data(name_stock):
     stock = name_stock
